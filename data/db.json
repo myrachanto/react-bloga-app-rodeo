@@ -1,7 +1,34 @@
 {
-    "blogs":[
-        {"title": "mi primera blog de sitio", "body": "mira  mi espanol es poble", "author":"myrachanto", "id":1},
-        {"title": "mi segundo blog de sitio", "body": "mira  mi espanol es poble", "author":"myrachanto", "id":2},
-        {"title": "mi primera blog de sitio", "body": "mira  mi es poco increible", "author":"chantos" , "id":3}
-    ]
+  "blogs": [
+    {
+      "title": "mi primera blog de sitio",
+      "body": "mira  mi espanol es poble",
+      "author": "myrachanto",
+      "id": 1
+    },
+    {
+      "title": "mi segundo blog de sitio",
+      "body": "mira  mi espanol es poble",
+      "author": "myrachanto",
+      "id": 2
+    },
+    {
+      "title": "mi primera blog de sitio",
+      "body": "mira  mi es poco increible",
+      "author": "chantos",
+      "id": 3
+    },
+    {
+      "title": "voy ala escuela",
+      "body": "voy ala escuela",
+      "author": "chantos",
+      "id": 5
+    },
+    {
+      "title": "voy ala escuela",
+      "body": "voy ala escuela",
+      "author": "chantos",
+      "id": 6
+    }
+  ]
 }

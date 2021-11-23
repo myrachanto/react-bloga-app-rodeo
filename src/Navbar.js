@@ -1,14 +1,12 @@
-import { getQueriesForElement } from "@testing-library/react";
+import { Link } from 'react-router-dom'
 
 const Navbar = () => {
     return ( 
         <nav className="navbar">
             <h1>The Blog</h1>
             <div className="links">
-                <a href="/">Home</a>
-                <a href="/create" style={{
-                    color:getQueriesForElement,
-                }}>New blog</a>
+                <Link to="/">Home</Link>
+                <Link to="/create" >New blog</Link>
             </div>
         </nav>
      );
